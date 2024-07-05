@@ -1,0 +1,12 @@
+controller\AdminController.class
+service\ShoesService.class
+sportyshoes\com\TestOperations.class
+repository\ShoesRepository.class
+model\Purchase.class
+repository\AdminRepository.class
+service\ShoesServiceImpl.class
+repository\UserRepository.class
+model\Product.class
+model\Category.class
+model\User.class
+model\Admin.class
